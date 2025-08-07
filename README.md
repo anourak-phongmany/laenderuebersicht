@@ -14,7 +14,6 @@ Dies ist eine einfache Webanwendung zur Anzeige von Informationen über europäi
   - Landesflagge
   - Google-Maps-Link
 - Anzeige eines spezifischen Landes (z. B. Deutschland)
-- Optional: Dynamische Anzeige über URL-Parameter (z. B. `?code=DE`)
 
 ## 🧰 Technologien
 
